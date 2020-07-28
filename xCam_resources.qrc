@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>traffic_light_empty.png</file>
+        <file>traffic_light_green.png</file>
+        <file>traffic_light_red.png</file>
+        <file>traffic_light_yellow.png</file>
+        <file>adjust.png</file>
+        <file>connections.png</file>
+        <file>recording.png</file>
+        <file>messages.png</file>
+        <file>save.png</file>
+        <file>texture.png</file>
+        <file>texture2.png</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file>slide.wav</file>
+        <file>start.wav</file>
+        <file>stop.wav</file>
+        <file>error.wav</file>
+    </qresource>
+</RCC>
